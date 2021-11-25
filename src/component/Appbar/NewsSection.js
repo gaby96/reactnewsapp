@@ -86,7 +86,7 @@ export default function NewsSection() {
     )
 }
 
-module.exports = NewsSection;
+
 
 
 

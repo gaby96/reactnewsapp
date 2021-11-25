@@ -24,7 +24,7 @@ export default function HeaderAppbar() {
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }} style={{color:'#ffffff'}}>
+          <Typography  component="div" sx={{ flexGrow: 1 }} style={{color:'#ffffff'}}>
             New York Times Most Popular Articles
           </Typography>
           
